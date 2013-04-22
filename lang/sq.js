@@ -2,6 +2,6 @@
 Copyright (c) 2003-2013, CKSource - Frederico Knabben. All rights reserved.
 For licensing, see LICENSE.html or http://ckeditor.com/license
 */
-CKEDITOR.plugins.setLang( 'horizontalrule', 'fr-ca', {
-	toolbar: 'Insérer un séparateur horizontale'
+CKEDITOR.plugins.setLang( 'horizontalrule', 'sq', {
+	toolbar: 'Vendos Vijë Horizontale'
 });
